@@ -1,3 +1,3 @@
 # Netlify link
-3d-solarsystem.netlify.app
+https://3d-solarsystem.netlify.app/
 
